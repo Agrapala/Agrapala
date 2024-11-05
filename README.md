@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samitha Agrapala</h1>
 <h3 align="center">A DevOps Engineer from SRILANKA</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agrapala&label=Profile%20views&color=0e75b6&style=flat" alt="agrapala" /> </p>
+
+- 🔭 I’m currently working on **Footfall Analyzer**
+
 - 🌱 I’m currently learning **CI CD Jenkins**
 
 - 💬 Ask me about **Web development, Python, Docker, Kubernetes**
@@ -20,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrapala&show_icons=true&locale=en&layout=compact" alt="agrapala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agrapala&show_icons=true&locale=en" alt="agrapala" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrapala&" alt="agrapala" /></p>
